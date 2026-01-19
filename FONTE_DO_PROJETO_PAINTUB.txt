@@ -1,0 +1,198 @@
+# 📄 ARQUIVO MESTRE - FONTE DO PROJETO PAINTUB
+## Versão Final (Sem menção a Zoom AI Assistant)
+
+---
+
+## 1. IDENTIDADE DO PROJETO (QUEM SOMOS DE VERDADE)
+
+**Nome do Projeto:** Paintub
+
+**Sites:**
+- https://paintub.com
+- https://paintub.com/express
+
+**O que a Paintub realmente é:**
+A Paintub não é uma empresa de pintura.
+Ela é uma **forma mais inteligente de reformar sem obra**, usando tecnologia para eliminar desperdício, intermediários e decisões erradas.
+
+**A ideia central:**
+A maioria das casas **não precisa de reforma pesada**.
+Precisa apenas de **diagnóstico honesto + execução certa**.
+
+---
+
+## 2. O PROBLEMA REAL (O VILÃO DA HISTÓRIA)
+
+O vilão não é a banheira velha.
+O vilão é o **modelo tradicional de reforma**.
+
+Esse modelo:
+- Exige visitas técnicas demoradas
+- Usa vendedores e gerentes que encarecem tudo
+- Cria orçamentos inflados "por segurança"
+- Assusta o dono da casa com termos técnicos
+- Faz a pessoa adiar a reforma por anos
+
+O dono da casa sente que:
+- Está pagando por coisas que não entende
+- Pode estar sendo enganado
+- Perde o controle do processo
+
+---
+
+## 3. A EXPERIÊNCIA DO USUÁRIO (O QUE A PESSOA VÊ)
+
+### A) Quando entra no site (paintub.com)
+
+O usuário chega **cansado**.
+Ele não quer conversa longa. Ele quer clareza.
+
+O site deixa claro:
+- Você está pagando caro porque existe gente demais no meio
+- Pintura e refinishing não precisam ser complicados
+- Tecnologia pode fazer esse trabalho melhor que visitas humanas
+
+O papel do site é **acalmar**, não vender.
+
+---
+
+### B) O Mentor Invisível (A Inteligência por Trás)
+
+A tecnologia **não se apresenta como produto**.
+Ela se comporta como um **consultor experiente e honesto**.
+
+Narrativa implícita:
+> "Eu já vi centenas de reformas.
+> Sei quando alguém está tentando te vender algo que você não precisa.
+> Deixa eu olhar isso com calma e te dizer a verdade."
+
+Ela atua como:
+- Consultor imparcial
+- Tradutor do mundo técnico
+- Filtro contra exageros e empurro de serviço
+
+---
+
+### C) A Experiência Express (paintub.com/express)
+
+Aqui acontece o **momento uau**.
+
+O usuário:
+1. Tira uma foto da banheira ou do ambiente
+2. Envia pelo celular
+3. Aguarda alguns segundos
+
+A tecnologia analisa a imagem e identifica:
+- Material real (ferro, fibra, drywall, cerâmica)
+- Tipo de desgaste (manchas, chips, trincas, mofo)
+- Complexidade do trabalho
+- Área real do serviço
+
+**Resultado:**
+Um preço **final e garantido** aparece na tela.
+
+Sem:
+- "depende"
+- "vamos ver depois"
+- "precisamos visitar"
+
+---
+
+## 4. POR QUE O PREÇO É MAIS BAIXO (SEM PROMESSA MILAGROSA)
+
+A Paintub não é barata por mágica.
+Ela é barata porque **remove camadas inúteis**.
+
+Não existem:
+- Vendedores com comissão
+- Gerentes intermediários
+- Orçamentos inflados "pra cobrir risco"
+
+O preço é calculado com base em:
+- Uma matriz de complexidade (níveis simples até complexos)
+- Condição real da superfície
+- Quantidade real de trabalho
+
+O cliente sente:
+> "Estou pagando exatamente pelo meu caso, não pelo problema de outra casa."
+
+---
+
+## 5. PILARES DE AUTORIDADE (O QUE DÁ SEGURANÇA)
+
+### Diagnóstico Profundo
+A análise detecta detalhes que normalmente só apareceriam **depois da obra começar**, reduzindo surpresas.
+
+### Preço Justo e Transparente
+Se o problema é simples, o preço cai.
+Se é complexo, o cliente entende o motivo.
+
+### Garantia Real
+O processo usa materiais profissionais (preparação química, epóxi, cura adequada).
+Existe garantia porque o método é confiável.
+
+### Suporte Inteligente
+O cliente não fala com um call center.
+Ele interage com o próprio sistema para:
+- Dúvidas
+- Cores
+- Acabamento
+- Processo
+
+---
+
+## 6. A TRANSFORMAÇÃO FINAL (A "ROMA")
+
+O cliente não compra pintura.
+Ele compra **controle e tranquilidade**.
+
+### Antes:
+- Vergonha do banheiro
+- Medo de empreiteiro
+- Reforma sempre adiada
+- Sensação de desperdício
+
+### Depois:
+- Banheiro renovado
+- Nenhuma obra
+- Decisão tomada pelo celular
+- Dinheiro economizado
+- Orgulho de ter sido inteligente
+
+O sentimento final é:
+> "Eu não caí no jogo da reforma tradicional.
+> Eu fiz do jeito certo."
+
+---
+
+## 7. TOM OBRIGATÓRIO PARA O PODCAST
+
+Sempre assumir:
+- Dois amigos conversando
+- Descobrindo algo juntos
+- Linguagem simples
+- Zero jargão técnico
+- Zero venda direta
+
+### Frases aceitáveis:
+- "Cara, isso muda tudo…"
+- "Agora faz sentido por que era tão caro antes."
+- "Isso explica por que eu sempre adiei essa reforma."
+
+### Frases proibidas:
+- Pitch de software
+- Linguagem corporativa
+- Termos B2B
+
+---
+
+## 💡 PROMPT FIXO PARA USO NO NOTEBOOKLM
+
+> **"Use o arquivo FONTE_DO_PROJETO_PAINTUB.txt para entender quem somos, como funciona a Paintub e qual é a transformação oferecida.
+> Use o arquivo [NOME_DO_DIA] apenas como o tema específico do episódio de hoje.
+> O tom deve ser de descoberta, empatia e conversa entre amigos.
+> Não venda. Explique. Não convença. Mostre."**
+
+---
+
+*Versão: Final | Data: Janeiro 2026*
